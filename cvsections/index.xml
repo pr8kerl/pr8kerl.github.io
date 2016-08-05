@@ -6,63 +6,12 @@
     <description>Recent content in Cvsections on Curriculum Vitae - Ian Stahnke</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Jul 2016 23:38:42 +1000</lastBuildDate>
     <atom:link href="https://pr8kerl.github.io/cvsections/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>education</title>
-      <link>https://pr8kerl.github.io/cvsections/education/</link>
-      <pubDate>Tue, 19 Jul 2016 23:38:42 +1000</pubDate>
-      
-      <guid>https://pr8kerl.github.io/cvsections/education/</guid>
-      <description>
-
-&lt;h3 id=&#34;professional-training&#34;&gt;Professional Training&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;2015&lt;/strong&gt; Advanced Architecting on AWS - Bespoke Training Services, Melbourne&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2015&lt;/strong&gt; Adobe Experience Manager Sites: System Administration - Adobe Training Services, Melbourne&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2013&lt;/strong&gt; ITIL Foundation Certificate v3&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2012&lt;/strong&gt; Architecting on AWS - AWS Education, Melbourne&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2011&lt;/strong&gt; Alienvault USM for Security Engineers - Alienvault, Melbourne&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2008&lt;/strong&gt; RedHat Certified Engineer - Liga LinDist ApS, Copenhagen&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2007&lt;/strong&gt; Oracle 10G Administration Workshop I – Bonner, Frankfurt&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2006&lt;/strong&gt; SAP Administration and Authorisation - EUMETSAT, Darmstadt&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2005&lt;/strong&gt; HP Openview Operations for UNIX I – HP UK, London&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2004&lt;/strong&gt; Solaris Performance Analysis – Sun Education, Melbourne&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2003&lt;/strong&gt; Sun Cluster 3.1 Administration – Sun Education, Melbourne&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2002&lt;/strong&gt; HP OpenView Network Node Manager – HP Education, Melbourne&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2001&lt;/strong&gt; Hands On MC/ServiceGuard – HP Education, Melbourne&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;1999&lt;/strong&gt; IBM Certified Specialist – AIX v4.3 System Administration, Melbourne&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;1998&lt;/strong&gt; RS/6000 SP System Administration – IBM Education, Melbourne&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;1998&lt;/strong&gt; Unicenter TNG Basics and Advanced – Auldhouse, Melbourne&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;1997&lt;/strong&gt; HP-UX 10.20 System Administration – HP Education, Melbourne&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;1996&lt;/strong&gt; Netview AOC Implementation &amp;amp; Automation – IBM Education, Canberra&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;1994&lt;/strong&gt; MVS/JES2 Computer Operations – HIC, Canberra&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;tertiary&#34;&gt;Tertiary&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;1994&lt;/strong&gt; University of Canberra.
-Completed second year Bachelor of Engineering (Computer Engineering).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;secondary&#34;&gt;Secondary&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;1992&lt;/strong&gt; Canberra College of TAFE.
-Completed ACT Year 12 Certificate.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;1988&lt;/strong&gt; Canberra Grammar School.
-Completed NSW Higher School Certificate.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
     
     <item>
       <title>employment</title>
       <link>https://pr8kerl.github.io/cvsections/employment/</link>
-      <pubDate>Tue, 19 Jul 2016 23:38:42 +1000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pr8kerl.github.io/cvsections/employment/</guid>
       <description>
@@ -103,11 +52,13 @@ Single handedly architected and implemented the &lt;a href=&#34;https://www.myob
 Many pieces of automation to add business value using various languages and frameworks such as Ruby, Python, Perl and Golang.
 Architected and implemented new micros-services infrastructure such as MyDot API, and Billing API.&lt;/p&gt;
 
+&lt;h6 id=&#34;next&#34;&gt;next&lt;/h6&gt;
+
 &lt;h3 id=&#34;ibm-global-services-telstra-melbourne&#34;&gt;IBM Global Services - Telstra, Melbourne&lt;/h3&gt;
 
 &lt;h4 id=&#34;netbackup-storage-engineer-contract&#34;&gt;Netbackup Storage Engineer - Contract&lt;/h4&gt;
 
-&lt;h4 id=&#34;jan-2009-december-2009&#34;&gt;Jan 2009 – December 2009&lt;/h4&gt;
+&lt;h4 id=&#34;mar-2009-december-2009&#34;&gt;Mar 2009 – December 2009&lt;/h4&gt;
 
 &lt;hr /&gt;
 
@@ -120,6 +71,8 @@ Architected and implemented new micros-services infrastructure such as MyDot API
 &lt;h4 id=&#34;achievements-1&#34;&gt;Achievements&lt;/h4&gt;
 
 &lt;p&gt;Automate backup status checks and restart of failed jobs to be able to meet SLA&amp;rsquo;s.&lt;/p&gt;
+
+&lt;h6 id=&#34;next-1&#34;&gt;next&lt;/h6&gt;
 
 &lt;h3 id=&#34;eumetsat-darmstadt-germany&#34;&gt;EUMETSAT, Darmstadt, Germany&lt;/h3&gt;
 
@@ -168,7 +121,7 @@ using Netbackup and HP EVA.&lt;/p&gt;
 &lt;p&gt;Implementation of HP Openview Operations to monitor
 hetereogenous IT infrastructure.&lt;/p&gt;
 
-&lt;h6 id=&#34;next&#34;&gt;next&lt;/h6&gt;
+&lt;h6 id=&#34;next-2&#34;&gt;next&lt;/h6&gt;
 
 &lt;h3 id=&#34;axa-australia-melbourne&#34;&gt;AXA Australia, Melbourne.&lt;/h3&gt;
 
@@ -207,7 +160,7 @@ management.&lt;/p&gt;
 
 &lt;p&gt;Implement NIS+ environment.&lt;/p&gt;
 
-&lt;h6 id=&#34;next-1&#34;&gt;next&lt;/h6&gt;
+&lt;h6 id=&#34;next-3&#34;&gt;next&lt;/h6&gt;
 
 &lt;h3 id=&#34;computer-associates-melbourne&#34;&gt;Computer Associates, Melbourne&lt;/h3&gt;
 
@@ -232,7 +185,7 @@ Develop documentation and test plans.&lt;/p&gt;
 to a number of customers including Dept Human Services,
 Touchcorp, CSC (DFAT Canberra)&lt;/p&gt;
 
-&lt;h6 id=&#34;next-2&#34;&gt;next&lt;/h6&gt;
+&lt;h6 id=&#34;next-4&#34;&gt;next&lt;/h6&gt;
 
 &lt;h3 id=&#34;eds-australia-general-motors-melbourne&#34;&gt;EDS Australia - General Motors, Melbourne&lt;/h3&gt;
 
@@ -259,7 +212,7 @@ of Engineering Analytical Servers.&lt;/p&gt;
 environment.
 Implemented AIX Network Install Manager (NIM) environment.&lt;/p&gt;
 
-&lt;h6 id=&#34;next-3&#34;&gt;next&lt;/h6&gt;
+&lt;h6 id=&#34;next-5&#34;&gt;next&lt;/h6&gt;
 
 &lt;h3 id=&#34;axa-australia-melbourne-1&#34;&gt;AXA Australia, Melbourne.&lt;/h3&gt;
 
@@ -289,7 +242,7 @@ Advanced Storage Option.
 Implemented StorageTek REELBackup – high performance,
 enterprise backup solution.&lt;/p&gt;
 
-&lt;h6 id=&#34;next-4&#34;&gt;next&lt;/h6&gt;
+&lt;h6 id=&#34;next-6&#34;&gt;next&lt;/h6&gt;
 
 &lt;h3 id=&#34;national-mutual-computer-services-melbourne&#34;&gt;National Mutual Computer Services, Melbourne.&lt;/h3&gt;
 
@@ -314,7 +267,7 @@ Scheduler, CA-1.&lt;/p&gt;
 Implemented Netview automation to monitor IMS databases
 and transactions&lt;/p&gt;
 
-&lt;h6 id=&#34;next-5&#34;&gt;next&lt;/h6&gt;
+&lt;h6 id=&#34;next-7&#34;&gt;next&lt;/h6&gt;
 
 &lt;h3 id=&#34;health-insurance-commission-canberra&#34;&gt;Health Insurance Commission, Canberra&lt;/h3&gt;
 
@@ -334,7 +287,7 @@ Netview automation. Provision of 1 st level Help Desk support to
 national CICS/VTAM network. Supervision of nightly online
 cheque prints.&lt;/p&gt;
 
-&lt;h6 id=&#34;next-6&#34;&gt;next&lt;/h6&gt;
+&lt;h6 id=&#34;next-8&#34;&gt;next&lt;/h6&gt;
 
 &lt;h3 id=&#34;health-insurance-commission-canberra-1&#34;&gt;Health Insurance Commission, Canberra&lt;/h3&gt;
 
@@ -353,7 +306,7 @@ operations. Extensive use of numerous mainframe applications
 such as ISPF, SDSF, Netmaster, Infoman, CA-1, Omegamon
 and CICS.&lt;/p&gt;
 
-&lt;h6 id=&#34;next-7&#34;&gt;next&lt;/h6&gt;
+&lt;h6 id=&#34;next-9&#34;&gt;next&lt;/h6&gt;
 
 &lt;h3 id=&#34;health-insurance-commission-canberra-2&#34;&gt;Health Insurance Commission, Canberra&lt;/h3&gt;
 
@@ -380,9 +333,59 @@ operator training, covering all aspects of IBM S/390 mainframe operations.&lt;/p
     </item>
     
     <item>
+      <title>education</title>
+      <link>https://pr8kerl.github.io/cvsections/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pr8kerl.github.io/cvsections/education/</guid>
+      <description>
+
+&lt;h3 id=&#34;professional-training&#34;&gt;Professional Training&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2015&lt;/strong&gt; Advanced Architecting on AWS - Bespoke Training Services, Melbourne&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2015&lt;/strong&gt; Adobe Experience Manager Sites: System Administration - Adobe Training Services, Melbourne&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2013&lt;/strong&gt; ITIL Foundation Certificate v3&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2012&lt;/strong&gt; Architecting on AWS - AWS Education, Melbourne&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2011&lt;/strong&gt; Alienvault USM for Security Engineers - Alienvault, Melbourne&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2008&lt;/strong&gt; RedHat Certified Engineer - Liga LinDist ApS, Copenhagen&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2007&lt;/strong&gt; Oracle 10G Administration Workshop I – Bonner, Frankfurt&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2006&lt;/strong&gt; SAP Administration and Authorisation - EUMETSAT, Darmstadt&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2005&lt;/strong&gt; HP Openview Operations for UNIX I – HP UK, London&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2004&lt;/strong&gt; Solaris Performance Analysis – Sun Education, Melbourne&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2003&lt;/strong&gt; Sun Cluster 3.1 Administration – Sun Education, Melbourne&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2002&lt;/strong&gt; HP OpenView Network Node Manager – HP Education, Melbourne&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2001&lt;/strong&gt; Hands On MC/ServiceGuard – HP Education, Melbourne&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1999&lt;/strong&gt; IBM Certified Specialist – AIX v4.3 System Administration, Melbourne&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1998&lt;/strong&gt; RS/6000 SP System Administration – IBM Education, Melbourne&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1998&lt;/strong&gt; Unicenter TNG Basics and Advanced – Auldhouse, Melbourne&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1997&lt;/strong&gt; HP-UX 10.20 System Administration – HP Education, Melbourne&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1996&lt;/strong&gt; Netview AOC Implementation &amp;amp; Automation – IBM Education, Canberra&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1994&lt;/strong&gt; MVS/JES2 Computer Operations – HIC, Canberra&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;tertiary&#34;&gt;Tertiary&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;1994&lt;/strong&gt; University of Canberra.
+Completed second year Bachelor of Engineering (Computer Engineering).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;secondary&#34;&gt;Secondary&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;1992&lt;/strong&gt; Canberra College of TAFE.
+Completed ACT Year 12 Certificate.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1988&lt;/strong&gt; Canberra Grammar School.
+Completed NSW Higher School Certificate.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>technical</title>
       <link>https://pr8kerl.github.io/cvsections/technical/</link>
-      <pubDate>Tue, 19 Jul 2016 23:38:42 +1000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pr8kerl.github.io/cvsections/technical/</guid>
       <description>

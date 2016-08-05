@@ -163,7 +163,7 @@ ul li a:hover {
  font-family: "Roboto Slab", serif;
 }
 
-#cvsection p {
+#cvsection p,ul {
  font-family: sans-serif;
 }
 
