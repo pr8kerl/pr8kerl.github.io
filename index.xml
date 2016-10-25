@@ -76,33 +76,26 @@ Completed NSW Higher School Certificate.&lt;/li&gt;
 
 &lt;h4 id=&#34;duties&#34;&gt;Duties&lt;/h4&gt;
 
-&lt;p&gt;Manage and maintain all internal services hosted on Linux/Solaris and AWS.
-Linux/UNIX, and storage systems management including, web
-server management (apache, tomcat), SSL certificate management,
-AWS account management etc.
-Automation of Linux/Unix system management to provide
-capabilities to clients through tools such as Ansible, Puppet etc.
-Ensuring production, test and development environments are
-operating optimally and to the agreed service levels.
-Design, develop and build technology solutions to meet business
-needs
-Monitoring for availability and capacity management of
-environments
-Delivering appropriate failover and disaster recovery procedures
-and processes for critical systems
-Proactive management of all Unix technologies i.e. Upgrades, patch
-management and firmware updates as appropriate.&lt;/p&gt;
+&lt;p&gt;Manage and maintain all UNIX based internal services hosted on-premise and in AWS.
+WebOps for &lt;a href=&#34;https://www.myob.com/&#34;&gt;corporate website&lt;/a&gt; running AEM (Adobe Experience Manager) hosted in AWS Sydney.
+Configuration Management using Ansible, Puppet and git.
+Linux/UNIX full stack systems management including web server technology (Apache, Tomcat, JBoss, Haproxy, Varnish), PKI management, AWS account management.
+Ensuring production, test and development environments are operating optimally and to the agreed service levels.
+Design, develop and build technology solutions to meet business needs.
+Monitoring for availability and capacity management of environments.
+Automation of systems management as well as business processes.
+Delivering appropriate high-availability and disaster recovery procedures and processes for critical systems.
+Agile processes; ITIL v3 certified.&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;h4 id=&#34;achievements&#34;&gt;Achievements&lt;/h4&gt;
 
-&lt;p&gt;The only UNIX resource within IT Services responsible for everything UNIX/Linux for 5 years.
-Single handedly architected and implemented the &lt;a href=&#34;https://www.myob.com/&#34;&gt;MYOB website&lt;/a&gt; infrastructure hosted in AWS and running in Adobe Experience Manager.
-Many pieces of automation to add business value using various languages and frameworks such as Ruby, Python, Perl and Golang.
-Architected and implemented new micros-services infrastructure such as MyDot API, and Billing API.&lt;/p&gt;
+&lt;p&gt;Sole resource to architect and implement the MYOB website infrastructure hosted in AWS and running  Adobe Experience Manager 6.1.
+The single UNIX resource within IT Services responsible for everything UNIX/Linux for 5 years.
+Many pieces of automation to add business value using various languages and frameworks such as Python, Perl, Golang, Bash, NodeJS and Ruby. Architected and implemented infrastructure for new micro-services.&lt;/p&gt;
 
-&lt;h6 id=&#34;next&#34;&gt;next&lt;/h6&gt;
+&lt;h6 id=&#34;toc_5&#34;&gt;_&lt;/h6&gt;
 
 &lt;h3 id=&#34;ibm-global-services-telstra-melbourne&#34;&gt;IBM Global Services - Telstra, Melbourne&lt;/h3&gt;
 
@@ -122,7 +115,7 @@ Architected and implemented new micros-services infrastructure such as MyDot API
 
 &lt;p&gt;Automate backup status checks and restart of failed jobs to be able to meet SLA&amp;rsquo;s.&lt;/p&gt;
 
-&lt;h6 id=&#34;next-1&#34;&gt;next&lt;/h6&gt;
+&lt;h6 id=&#34;toc_11&#34;&gt;_&lt;/h6&gt;
 
 &lt;h3 id=&#34;eumetsat-darmstadt-germany&#34;&gt;EUMETSAT, Darmstadt, Germany&lt;/h3&gt;
 
@@ -171,7 +164,7 @@ using Netbackup and HP EVA.&lt;/p&gt;
 &lt;p&gt;Implementation of HP Openview Operations to monitor
 hetereogenous IT infrastructure.&lt;/p&gt;
 
-&lt;h6 id=&#34;next-2&#34;&gt;next&lt;/h6&gt;
+&lt;h6 id=&#34;toc_17&#34;&gt;_&lt;/h6&gt;
 
 &lt;h3 id=&#34;axa-australia-melbourne&#34;&gt;AXA Australia, Melbourne.&lt;/h3&gt;
 
@@ -210,7 +203,7 @@ management.&lt;/p&gt;
 
 &lt;p&gt;Implement NIS+ environment.&lt;/p&gt;
 
-&lt;h6 id=&#34;next-3&#34;&gt;next&lt;/h6&gt;
+&lt;h6 id=&#34;toc_23&#34;&gt;_&lt;/h6&gt;
 
 &lt;h3 id=&#34;computer-associates-melbourne&#34;&gt;Computer Associates, Melbourne&lt;/h3&gt;
 
@@ -235,7 +228,7 @@ Develop documentation and test plans.&lt;/p&gt;
 to a number of customers including Dept Human Services,
 Touchcorp, CSC (DFAT Canberra)&lt;/p&gt;
 
-&lt;h6 id=&#34;next-4&#34;&gt;next&lt;/h6&gt;
+&lt;h6 id=&#34;toc_29&#34;&gt;_&lt;/h6&gt;
 
 &lt;h3 id=&#34;eds-australia-general-motors-melbourne&#34;&gt;EDS Australia - General Motors, Melbourne&lt;/h3&gt;
 
@@ -262,7 +255,7 @@ of Engineering Analytical Servers.&lt;/p&gt;
 environment.
 Implemented AIX Network Install Manager (NIM) environment.&lt;/p&gt;
 
-&lt;h6 id=&#34;next-5&#34;&gt;next&lt;/h6&gt;
+&lt;h6 id=&#34;toc_35&#34;&gt;_&lt;/h6&gt;
 
 &lt;h3 id=&#34;axa-australia-melbourne-1&#34;&gt;AXA Australia, Melbourne.&lt;/h3&gt;
 
@@ -292,7 +285,7 @@ Advanced Storage Option.
 Implemented StorageTek REELBackup – high performance,
 enterprise backup solution.&lt;/p&gt;
 
-&lt;h6 id=&#34;next-6&#34;&gt;next&lt;/h6&gt;
+&lt;h6 id=&#34;toc_41&#34;&gt;_&lt;/h6&gt;
 
 &lt;h3 id=&#34;national-mutual-computer-services-melbourne&#34;&gt;National Mutual Computer Services, Melbourne.&lt;/h3&gt;
 
@@ -317,7 +310,7 @@ Scheduler, CA-1.&lt;/p&gt;
 Implemented Netview automation to monitor IMS databases
 and transactions&lt;/p&gt;
 
-&lt;h6 id=&#34;next-7&#34;&gt;next&lt;/h6&gt;
+&lt;h6 id=&#34;toc_47&#34;&gt;_&lt;/h6&gt;
 
 &lt;h3 id=&#34;health-insurance-commission-canberra&#34;&gt;Health Insurance Commission, Canberra&lt;/h3&gt;
 
@@ -337,7 +330,7 @@ Netview automation. Provision of 1 st level Help Desk support to
 national CICS/VTAM network. Supervision of nightly online
 cheque prints.&lt;/p&gt;
 
-&lt;h6 id=&#34;next-8&#34;&gt;next&lt;/h6&gt;
+&lt;h6 id=&#34;toc_52&#34;&gt;_&lt;/h6&gt;
 
 &lt;h3 id=&#34;health-insurance-commission-canberra-1&#34;&gt;Health Insurance Commission, Canberra&lt;/h3&gt;
 
@@ -356,7 +349,7 @@ operations. Extensive use of numerous mainframe applications
 such as ISPF, SDSF, Netmaster, Infoman, CA-1, Omegamon
 and CICS.&lt;/p&gt;
 
-&lt;h6 id=&#34;next-9&#34;&gt;next&lt;/h6&gt;
+&lt;h6 id=&#34;toc_57&#34;&gt;_&lt;/h6&gt;
 
 &lt;h3 id=&#34;health-insurance-commission-canberra-2&#34;&gt;Health Insurance Commission, Canberra&lt;/h3&gt;
 
@@ -393,16 +386,17 @@ operator training, covering all aspects of IBM S/390 mainframe operations.&lt;/p
 &lt;h3 id=&#34;recent-technical-skills&#34;&gt;Recent Technical Skills&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;AWS – well versed in Cloudformation, EC2, VPC, S3, Route53, VPC, Direct Connect, CloudFront, Lambda, Storage Gateway&lt;/li&gt;
-&lt;li&gt;DevOps toolsets such as git, subversion, Jenkins, Ansible, Puppet&lt;/li&gt;
-&lt;li&gt;General purpose programming in Golang, Bash, Perl, Python and Ruby&lt;/li&gt;
-&lt;li&gt;Web programming in Golang, Javascript, Node.js.&lt;/li&gt;
-&lt;li&gt;Experience working in an Agile environment&lt;/li&gt;
-&lt;li&gt;In-depth experience in web technologies such as Apache Web Server, Squid, Haproxy, Tomcat, JBOSS, AEM, Fatwire&lt;/li&gt;
-&lt;li&gt;Vulnerability management/ PCI compliance, Openvas, Qualys&lt;/li&gt;
-&lt;li&gt;Systems Monitoring: Nagios, Graphite, Influxdb&lt;/li&gt;
-&lt;li&gt;Splunk ( large distributed deployment)&lt;/li&gt;
+&lt;li&gt;AWS. Experienced in automation and configuration of Cloudformation, EC2, VPC, S3, Route53, VPC, Direct Connect, CloudFront, SNS, Storage Gateway, Lambda&lt;/li&gt;
+&lt;li&gt;DevOps toolsets such as Git, Jenkins, Ansible, Puppet, Subversion, Maven, Nexus&lt;/li&gt;
+&lt;li&gt;Content Management System implementation and administration - Adobe Experience Manager 6.X, Fatwire, Wordpress&lt;/li&gt;
+&lt;li&gt;In-depth experience in web technologies such as Apache Web Server, Squid, Haproxy, Tomcat, JBOSS, NodeJS&lt;/li&gt;
+&lt;li&gt;General purpose programming and automation in Golang, Bash, Perl, Python and Ruby&lt;/li&gt;
+&lt;li&gt;Web programming in Golang, Javascript, NodeJS.&lt;/li&gt;
+&lt;li&gt;Systems Monitoring: Nagios/Naemon, Splunk Enterprise, Graphite, Influxdb&lt;/li&gt;
+&lt;li&gt;Security Management, Vulnerability management, PCI compliance, Openvas, Qualys, PKI management, OpenSSL, PGP&lt;/li&gt;
 &lt;li&gt;Experience of IP networks, Load balancing (F5), Firewalls (Palo)&lt;/li&gt;
+&lt;li&gt;Experience working in an Agile environment&lt;/li&gt;
+&lt;li&gt;ITIL v3 certified&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
