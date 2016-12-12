@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Curriculum Vitae - Ian Stahnke</title>
-    <link>http://pr8kerl.github.io/</link>
+    <link>https://pr8kerl.github.io/</link>
     <description>Recent content on Curriculum Vitae - Ian Stahnke</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://pr8kerl.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pr8kerl.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>education</title>
-      <link>http://pr8kerl.github.io/education/</link>
+      <link>https://pr8kerl.github.io/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://pr8kerl.github.io/education/</guid>
+      <guid>https://pr8kerl.github.io/education/</guid>
       <description>
 
 &lt;h3 id=&#34;professional-training&#34;&gt;Professional Training&lt;/h3&gt;
@@ -60,10 +60,10 @@ Completed NSW Higher School Certificate.&lt;/li&gt;
     
     <item>
       <title>employment</title>
-      <link>http://pr8kerl.github.io/employment/</link>
+      <link>https://pr8kerl.github.io/employment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://pr8kerl.github.io/employment/</guid>
+      <guid>https://pr8kerl.github.io/employment/</guid>
       <description>
 
 &lt;h3 id=&#34;myob-australia-melbourne&#34;&gt;MYOB Australia, Melbourne&lt;/h3&gt;
@@ -378,10 +378,10 @@ operator training, covering all aspects of IBM S/390 mainframe operations.&lt;/p
     
     <item>
       <title>technical</title>
-      <link>http://pr8kerl.github.io/technical/</link>
+      <link>https://pr8kerl.github.io/technical/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://pr8kerl.github.io/technical/</guid>
+      <guid>https://pr8kerl.github.io/technical/</guid>
       <description>
 
 &lt;h3 id=&#34;recent-technical-skills&#34;&gt;Recent Technical Skills&lt;/h3&gt;
